@@ -1,0 +1,9 @@
+timestamp,level,message
+2025-10-01 10:00:00,INFO,User login successful
+2025-10-01 10:05:00,ERROR,Database connection failed
+2025-10-01 10:10:00,WARNING,Memory usage high
+2025-10-01 11:00:00,INFO,User logout successful
+2025-10-01 12:30:00,ERROR,File not found
+2025-10-02 09:00:00,INFO,User login successful
+2025-10-02 09:15:00,ERROR,Timeout while connecting to API
+2025-10-02 09:45:00,WARNING,Disk space low
