@@ -11,10 +11,10 @@ It extracts raw logs, transforms and cleans them, analyzes trends, and loads the
 - Analyze logs: daily counts, error levels, top messages
 - Load results into CSV and SQLite database
 - Central logging with `logs/pipeline.log`
-
 ---
 
 ##  Project Structure
+
 ```
 log-analytics-pipeline/
 ├── data/
@@ -65,4 +65,3 @@ Ali Zamanpour
   
 *Data Engineer & AI Specialist*  
 
----
